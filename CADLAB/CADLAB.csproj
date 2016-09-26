@@ -25,7 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <ApplicationInsightsResourceId>/subscriptions/e6631d80-13e9-4dd0-bed3-8de4a28fdb8b/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/CADLAB</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/81d25466-9423-4f88-802c-be3b15f54206/resourcegroups/LABS_GIRBAU/providers/microsoft.insights/components/CADLAB2</ApplicationInsightsResourceId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
